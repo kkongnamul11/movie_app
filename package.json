@@ -15,9 +15,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build",
-    "deploy" : "gh-pages -d build",
-    "predeploy" : "npm run build"
+    "build": "react-scripts build"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -34,6 +32,6 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://kkongnamul11.github.io/movie_app/"
+  "homepage": "https://kkongnamul11.github.io/movie_app"
 
 }
